@@ -1,0 +1,11 @@
+﻿{
+  "name": "jp.iridecent.custom-control-track",
+  "version": "0.0.1",
+  "description": "演出用にカスタマイズしたControl Track",
+  "displayName": "Custom ControlTrack",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.timeline": "1.6.4"
+  },
+  "author": "Iridescent"
+}
