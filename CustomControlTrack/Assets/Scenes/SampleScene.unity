@@ -953,5 +953,17 @@ PlayableDirector:
     value: {fileID: 1098168871}
   - key: {fileID: 7316474472627999634, guid: 37cc19c83ceaade4a90a59c6ebdda0fa, type: 2}
     value: {fileID: 1178845535}
+  - key: {fileID: 7214092215376509244, guid: 173773117e8d93244a00de9e0232233e, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -3719953614362778204, guid: 173773117e8d93244a00de9e0232233e, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 6135822805677854313, guid: 173773117e8d93244a00de9e0232233e, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -8530497619267552232, guid: 173773117e8d93244a00de9e0232233e, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -1531178164471722232, guid: 173773117e8d93244a00de9e0232233e, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7915758949470216379, guid: 173773117e8d93244a00de9e0232233e, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
