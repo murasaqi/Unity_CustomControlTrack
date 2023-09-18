@@ -1,9 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
+
+[assembly: InternalsVisibleTo("jp.iridecent.CustomControlTrack.Editor")]
 
 namespace Iridescent.Timeline
 {
@@ -46,7 +49,7 @@ namespace Iridescent.Timeline
         /// Indicates whether playableDirectors are controlled.
         /// </summary>
         [SerializeField] public bool updateDirector = true;
-        
+
         /// <summary>
         /// Flag whether to Stop on pause on PlayableDirector
         /// </summary>
